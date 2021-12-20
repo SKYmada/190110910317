@@ -1,16 +1,28 @@
 {
   "name": "190110910317",
   "version": "1.0.0",
-  "description": "",
+  "description": "期末大作业，zuozuozuo！",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "sky_mada",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "mongoose": "^6.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKYmada/190110910317.git"
+  },
+  "keywords": [
+    "期末大作业"
+  ],
+  "bugs": {
+    "url": "https://github.com/SKYmada/190110910317/issues"
+  },
+  "homepage": "https://github.com/SKYmada/190110910317#readme"
 }
