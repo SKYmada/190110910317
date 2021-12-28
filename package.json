@@ -2,7 +2,7 @@
   "name": "190110910317",
   "version": "1.0.0",
   "description": "期末大作业，zuozuozuo！",
-  "main": "spp.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
