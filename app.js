@@ -23,10 +23,20 @@ app.get('/index.ejs',(req, res)=>{
 app.get('/login.ejs',(req, res)=>{
 
     res.render('login.ejs', {
-        username:null
+        username:null,
+        info:null
     })
 
 })
 
+//注册
+app.get('/reg.ejs',(req, res)=>{
+
+    res.render('reg.ejs', {
+        username:null,
+        info:null
+    })
+
+})
 
 app.listen(10317, console.log("服务器就绪"))
